@@ -28,5 +28,29 @@
        "Year":"2014",
        "percentage":"93%"
      }
+   ],
+   "skills":[
+     {
+       "title":"programming Language",
+       "info":["c","c++","Python","Java","Ruby","R"]
+     },
+     {
+       "title":"Databases",
+       "info":["Oracle","mySql","Sql"]
+     },
+     {
+       "title":"Operating System",
+       "info":["Windows","MAC","Unix","KaliLinux"]
+     },
+     {
+       "title":"Web Technologies",
+       "info":["HTML","CSS","XML","JAVA Script"]
+     }
+   ],
+   "achievements":[
+     {
+       "training":"completed training in tableu",
+       "internship":"Got two certificate for completing internship"
+     }
    ]
  }
