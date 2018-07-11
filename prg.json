@@ -1,0 +1,32 @@
+{
+  "profile":{
+    "name":"APURUPA",
+    "image":"1.jpg",
+    "email":"apurupa1624@gmail.com",
+    "mobile":"9999162407",
+    "Address":"PVP college"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+   },
+   "education":[
+     {
+       "degree":"B-Tech",
+       "institute":"PVP",
+       "Year":"2016-20",
+       "percentage":"90%"
+     },
+     {
+       "degree":"Intermediate",
+       "institute":"Narayana Jr College",
+       "Year":"2014-16",
+       "percentage":"87%"
+     },
+     {
+       "degree":"S.S.C",
+       "institute":"Nirmala School",
+       "Year":"2014",
+       "percentage":"93%"
+     }
+   ]
+ }
